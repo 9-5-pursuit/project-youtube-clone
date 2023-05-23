@@ -65,7 +65,6 @@ You must implement all of the user stories and acceptance criteria below. After 
 ### Code Quality Rubric
 
 - Use JSX to create components.
-- Talk with your instructor to commit to either using class based components to manage state _or_ using hooks. You should not use both.
 - Use `create-react-app` to build a React app.
 - Use `fetch` to make API calls.
 - Use `react-router-dom` to create different views.
